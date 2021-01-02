@@ -1,3 +1,4 @@
+import numpy as np
 class dog_class:
     def __init__(self, name='wanwan'):
         """
